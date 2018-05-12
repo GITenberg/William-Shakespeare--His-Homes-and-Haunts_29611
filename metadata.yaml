@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '34029'
     url: http://www.gutenberg.org/2009/agents/34029
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29611#William-Shakespeare--His-Homes-and-Haunts
 gutenberg_issued: '2009-08-05'
 gutenberg_type: Text
 identifiers:
