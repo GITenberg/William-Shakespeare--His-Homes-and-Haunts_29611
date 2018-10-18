@@ -35,5 +35,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Shakespeare, William, 1564-1616 -- Homes and haunts'
 - !lcc 'PR'
+- GITenberg
 title: 'William Shakespeare: His Homes and Haunts'
 url: http://www.gutenberg.org/ebooks/29611
